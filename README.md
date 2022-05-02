@@ -4,4 +4,4 @@
 
 • Deixar esse repositório pra testes;
 • Criar novos arquivos e fazer alterações;
-• Testar os diferentes comandos disponíveis para isso.
+• Testar os diferentes comandos disponíveis para isso....
